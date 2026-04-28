@@ -22,7 +22,7 @@
  */
 
 metadata {
-    definition(name: "AAT Multiroom 2 Zonas", namespace: "Cesco", author: "Felipe") {
+    definition(name: "AAT Multiroom 2 Zonas", namespace: "VH", author: "VH") {
         capability "Initialize"
         capability "Switch"
         capability "Refresh"
